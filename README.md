@@ -2,11 +2,11 @@
 
 Research code and computational data accompanying **Regulatory Resource Pricing in Low-Altitude Service Markets: Platform Competition and Welfare Effects**.
 
-The study examines regulatory resource charges, platform fare competition, access waiting and welfare. The datasets describe parameterized operating states and analytical examples; they are not observations of operating low-altitude markets.
+The study examines regulatory resource charges, platform fare competition, access waiting and welfare. The datasets describe parameterized operating states and analytical examples.
 
 ## Installation
 
-Python 3.13, NumPy 2.5.0 and SciPy 1.18.0 were used for the distribution checks. No plotting software or LaTeX installation is needed.
+Python 3.13, NumPy 2.5.0 and SciPy 1.18.0 were used for the distribution checks. 
 
 ```bash
 python -m venv .venv
